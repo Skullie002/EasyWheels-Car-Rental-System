@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bringing the logo content DOWN to center the emblem.
+         By increasing the top expansion and decreasing the bottom expansion,
+         the image shifts downwards relative to the icon frame. -->
+    <item
+        android:drawable="@drawable/easywheels_logo"
+        android:top="-100dp"
+        android:bottom="-20dp"
+        android:left="-60dp"
+        android:right="-60dp" />
+</layer-list>

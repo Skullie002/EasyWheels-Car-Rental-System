@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Professional Modern Palette -->
+    <color name="primaryColor">#0F172A</color> <!-- Slate 900 - Deep, professional navy -->
+    <color name="primaryLightColor">#1E293B</color>
+    <color name="primaryDarkColor">#020617</color>
+
+    <color name="secondaryColor">#3B82F6</color> <!-- Blue 500 - Vibrant action color -->
+    <color name="secondaryLightColor">#60A5FA</color>
+    <color name="secondaryDarkColor">#2563EB</color>
+
+    <color name="accentColor">#10B981</color> <!-- Emerald 500 - For success/confirm -->
+
+    <color name="primaryTextColor">#1E293B</color>
+    <color name="secondaryTextColor">#64748B</color>
+
+    <color name="backgroundColor">#F8FAFC</color> <!-- Slate 50 - Off-white background -->
+    <color name="surfaceColor">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_100">#F1F5F9</color>
+    <color name="gray_200">#E2E8F0</color>
+    <color name="gray_300">#CBD5E1</color>
+    <color name="gray_400">#94A3B8</color>
+
+    <color name="errorColor">#EF4444</color>
+</resources>
